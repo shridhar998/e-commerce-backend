@@ -30,6 +30,18 @@ To get started with the project, follow these steps:
 ### Here are few screenshots of api routes i tested on Postman
 #### Creating a new product (POST request)
 ![Screenshot (16)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/7a532abd-51cc-4ab5-a7e6-d2902b80388a)
+#### Fetching all products (GET request)
+![Screenshot (17)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/4cd1fcee-5bea-4932-a03c-095f4ff6c992)
+#### Fetching a product by its id (GET request)
+![Screenshot (18)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/99bb03cd-dad7-4120-a6b4-ee6639e50fc7)
+#### Updating a product by its id (PATCH request)
+![Screenshot (19)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/94eda20b-1b0d-419b-89e0-925b8dd7fe92)
+#### Deleting a product by its id (DELETE request)
+![Screenshot (20)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/d678bbfd-30b4-465c-af9f-79d4a33ce5a7)
+
+
+
+
 
 
 ## Contributing
