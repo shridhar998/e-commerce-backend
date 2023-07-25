@@ -26,6 +26,10 @@ To get started with the project, follow these steps:
 6. **Testing:** Execute tests using `npm test`.
 7. **API Documentation:** Refer to the API documentation available at [API Docs](https://example.com/api-docs) to understand available endpoints and request/response formats.
 
+## API Testing on Postman:
+### Here are few screenshots of api routes i tested on Postman
+
+
 ## Contributing
 
 Contributions are always welcome! If you'd like to contribute to the project, please follow the guidelines.
