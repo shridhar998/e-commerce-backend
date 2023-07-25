@@ -29,7 +29,9 @@ To get started with the project, follow these steps:
 ## API Testing on Postman:
 ### Here are few screenshots of api routes i tested on Postman
 #### Creating a new product (POST request)
-[!234](https://github.com/shridhar998/e-commerce-backend/blob/main/Screenshot%20(16).png?raw=true)
+![Screenshot (16)](https://github.com/shridhar998/e-commerce-backend/assets/83115648/7a532abd-51cc-4ab5-a7e6-d2902b80388a)
+
+
 ## Contributing
 
 Contributions are always welcome! If you'd like to contribute to the project, please follow the guidelines.
